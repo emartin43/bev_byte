@@ -1,4 +1,4 @@
-# quick_byte_1
+# Bev's Byte
 Bev's Byte 1 -- Electricity Demand from Ember
 
 ### My goal for this project:
