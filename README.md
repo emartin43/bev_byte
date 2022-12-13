@@ -12,10 +12,10 @@ In the future, I would do some searching for a similar dataset with energy price
 
 ### Available Files: 
 ### [Bev's Byte 1 Blog Post/Write up](https://medium.com/@evelyn.martin/bevs-byte-1-monthly-electricity-demand-daf96eef4dad)
-### [Bev's Byte 1 R Script -- Cleaning](https://github.com/emartin43/quick_byte_1/blob/1ade2416a977968bf14ccfa86c4a746a30f7189c/QuickByteCleaning.R)
-### [Bev's Byte 1 R Script -- Spatiotemporal Map](https://github.com/emartin43/quick_byte_1/blob/1ade2416a977968bf14ccfa86c4a746a30f7189c/QuickByteSpatial.R)
+### [Bev's Byte 1 R Script -- Cleaning](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/QuickByteCleaning.R)
+### [Bev's Byte 1 R Script -- Spatiotemporal Map](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/QuickByteSpatial.R)
 ### [Ember Electricity Data](https://ember-climate.org/data-catalogue/monthly-electricity-data/)
-### [Ember Electricity Methodology](https://github.com/emartin43/quick_byte_1/blob/1ade2416a977968bf14ccfa86c4a746a30f7189c/Ember-Electricity-Data-Methodology.pdf)
+### [Ember Electricity Methodology](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/Ember-Electricity-Data-Methodology.pdf)
 
 ------------------------------------------------
 
