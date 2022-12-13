@@ -23,6 +23,7 @@ In the future, I would do some searching for a similar dataset with energy price
 ## Bev's Byte 2 -- Sentiment Analysis of "Into the Wild"
 
 ### My goal for this project:
+My motivation for this project was two-fold. Firstly, I am a big fan of Jon Krakauer, and one of my favorite books of his is "Into the Wild". Secondly, I wanted to try something creating something with R that I had never done before. This project, therefore, is the marriage of my personal and professional interests. I had read an article touting how cool it can be to run a sentiment analysis on different types of media, and because sentinment analysis is something that I was new to before this project, I decided to give it a go in this rendition of Bev's Byte. I initially thought to analyze the script of the "Into the Wild" movie, but I thought that the book would have more dialogue and vocabularly to work with than the movie. I found a pdf of the book through the Internet and converted it to a text file. 
 
 
 ### What I learned from this project:
@@ -33,4 +34,4 @@ In the future, I would do some searching for a similar dataset with energy price
 
 ### Available Files: 
 ### [Bev's Byte 2 Blog Post/Write up]()
-### [Bev's Byte 2 R Script -- Sentiment Analysis]()
+### [Bev's Byte 2 R Script -- Sentiment Analysis](https://github.com/emartin43/bev_byte/blob/170a7547454516053d2eaa61a3814b282a4101ae/bev_byte_2/sentiment_analysis.R)
