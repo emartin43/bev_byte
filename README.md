@@ -27,9 +27,13 @@ My motivation for this project was two-fold. Firstly, I am a big fan of Jon Krak
 
 
 ### What I learned from this project:
+In terms of the insights I garnered from this project in particular, it was interesting to me that there are a few different sentiment analysis "libraries" that are commonly used. In the end, this makes sense because language is inherently subjective and so comparing and contrasting against different libraries is helpful in developing a more robust take-aways from the opinion mining. Additionally, it was quite interesting to me that "Into the Wild" was almost equally positive as it was negative; it was only slightly more negative. For a book where the main protagonist dies of hunger and poison(?) alone in the wild, it could be surmised that the book was written in a way that highlighted the positive experiences Chris McCandless had throughout the course of his adventure. While initially the premise of the book can be seen as a tragedy, according to the sentiment analysis in this project, Jon Krakauer does not seem to wallow excessively in its negativity, and instead delivers something that explores all facets of Chris McCandless' very human and complex odessey to find himself on his terms. 
 
+
+I learned that sentiment analysis is a powerful tool that can be used to determine whether language data is positive, negative, or neutral. Analyzing media such as books and movie scripts are great ways to practice this important facet of natural language processing. Of course, the benefits of sentiment analysis goes beyond these traditional medias and can delve into social media and product reviews, as well. However, sentiment analysis systems trained on review data are often much less accurate when applied to data from other domains such as news or social media because of the differences in how people express themselves in these domains. Because the vast majority of data is unstructed, having a command of sentiment analysis will allow some sort of understanding of the data at play. 
 
 ### If I had more time I would change:
+I would have compared the sentiment analysis of the "Into the Wild" movie with the book in order to see how Jon Krakauer and Sean Penn approached the same story of Chris McCandless differently. Though I have not seen the movie, a hypothesis of mine would be that the movie would be written in a slightly more positive light than the book, perhaps to enthrall mainstream audiences. However, that is just a hypothesis based on my own biases of movies, in general. 
 
 
 ### Available Files: 
