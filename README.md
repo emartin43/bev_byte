@@ -39,3 +39,7 @@ I would have compared the sentiment analysis of the *Into the Wild* movie with t
 ### Available Files: 
 ### [Bev's Byte 2 Blog Post/Write up](https://medium.com/@evelyn.martin/bevs-byte-2-sentiment-analysis-of-into-the-wild-37842719eba6)
 ### [Bev's Byte 2 R Script -- Sentiment Analysis](https://github.com/emartin43/bev_byte/blob/170a7547454516053d2eaa61a3814b282a4101ae/bev_byte_2/sentiment_analysis.R)
+
+
+## Bev's Byte 3 -- In progress
+
