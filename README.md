@@ -41,8 +41,4 @@ I would have compared the sentiment analysis of the *Into the Wild* movie with t
 
 
 ## Bev's Byte 3 -- In progress 
-### [Bev's Byte 2 R Script -- Sentiment Analysis](https://github.com/emartin43/bev_byte/blob/170a7547454516053d2eaa61a3814b282a4101ae/bev_byte_2/sentiment_analysis.R)
-
-
-## Bev's Byte 3 -- In progress
 
