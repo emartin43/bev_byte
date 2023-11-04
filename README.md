@@ -11,8 +11,8 @@ Because I had never worked with maps in ggplot or RStudio before, it was an enti
 In the future, I would do some searching for a similar dataset with energy prices instead of electricity demand. To me, although energy demand is a component of prices, it would be a more nuanced exploration of the dataset to see how the different prices for the same amount of energy compare globally. I also would have made a more easily acessible paged table for electricity demand by country so that all of the data observations would have been easily accessible.
 
 ### Available Files: 
-### [Bev's Byte 1 R Script -- Cleaning](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/QuickByteCleaning.R)
-### [Bev's Byte 1 R Script -- Spatiotemporal Map](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/QuickByteSpatial.R)
+### [Data Cleaning Script](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/QuickByteCleaning.R)
+### [Spatiotemporal Map Script ](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/QuickByteSpatial.R)
 ### [Ember Electricity Data](https://ember-climate.org/data-catalogue/monthly-electricity-data/)
 ### [Ember Electricity Methodology](https://github.com/emartin43/bev_byte/blob/3e95b43db9777e95d7611b576648fa34d388f450/bev_byte_1/Ember-Electricity-Data-Methodology.pdf)
 
@@ -36,7 +36,8 @@ I would have compared the sentiment analysis of the *Into the Wild* movie with t
 
 
 ### Available Files: 
-
+### [Analysis Script](https://github.com/emartin43/bev_byte/blob/5f35e8d4c034ff74307b75a9815426f4d614dda6/bev_byte_2/sentiment_analysis.R)
+### [Visualizations](https://github.com/emartin43/bev_byte/tree/5f35e8d4c034ff74307b75a9815426f4d614dda6/bev_byte_2)
 
 ## Bev's Byte 3 -- In progress 
 
